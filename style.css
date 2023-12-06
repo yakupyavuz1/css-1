@@ -1,0 +1,28 @@
+
+body{
+text-align: center;
+font-size: 20px;
+font-family: sans-serif;
+list-style: inside;
+
+}
+
+h1{
+    color: red;
+}
+
+h3{
+color:blue;
+
+}
+a{
+
+    text-decoration: none;
+    transition: 0.5s;
+
+}
+a:hover  {
+
+color:blue;
+
+}
